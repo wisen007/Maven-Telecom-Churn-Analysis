@@ -38,14 +38,14 @@ Add your dashboard screenshots in this section:
 
 | Overall Churn Dashboard | Customer Segmentation |
 |--------------------------|-----------------------|
-| ![Churn Overview](images/dashboard_overview.png) | ![Customer Segments](images/churn_insights.png) |
+| ![Churn Overview](page11.png) | ![Customer Segments](page2.png) |
 
-*(Replace with your exported Power BI visuals in `.png` format)*  
+
 
 ---
 
 ## 🔗 Live Power BI Report
-If published to Power BI Service, include the link below:
+
 
 👉 [**View Interactive Dashboard**](http://bit.ly/4nnQYL0)
 
