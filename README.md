@@ -47,7 +47,7 @@ Add your dashboard screenshots in this section:
 ## 🔗 Live Power BI Report
 If published to Power BI Service, include the link below:
 
-👉 [**View Interactive Dashboard**](https://app.powerbi.com/view?r=YOUR_PUBLISHED_LINK_HERE)
+👉 [**View Interactive Dashboard**](http://bit.ly/4nnQYL0_LINK_HERE)
 
 ---
 
