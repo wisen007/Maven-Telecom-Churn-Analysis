@@ -38,7 +38,7 @@ Add your dashboard screenshots in this section:
 
 | Overall Churn Dashboard | Customer Segmentation |
 |--------------------------|-----------------------|
-| ![Churn Overview](page11.png) | ![Customer Segments](page2.png) |
+| ![Churn Overview](page11.png) | ![Customer Segments](page_2.png) |
 
 
 
